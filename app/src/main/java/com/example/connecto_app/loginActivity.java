@@ -29,6 +29,7 @@ public class loginActivity extends AppCompatActivity {
     TextView txt_signup;
 
     FirebaseAuth auth;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
