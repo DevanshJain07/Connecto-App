@@ -29,4 +29,9 @@
         android:background="@drawable/button_background"
         />
 
+    <com.google.android.gms.common.SignInButton
+        android:id="@+id/signInButton"
+        android:layout_width="358dp"
+        android:layout_height="60dp" />
+
 </LinearLayout>
